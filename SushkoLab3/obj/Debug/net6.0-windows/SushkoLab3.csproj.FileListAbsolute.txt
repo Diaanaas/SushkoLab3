@@ -1,0 +1,17 @@
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\bin\Debug\net6.0-windows\SushkoLab3.exe
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\bin\Debug\net6.0-windows\SushkoLab3.deps.json
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\bin\Debug\net6.0-windows\SushkoLab3.runtimeconfig.json
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\bin\Debug\net6.0-windows\SushkoLab3.dll
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\bin\Debug\net6.0-windows\SushkoLab3.pdb
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.csproj.AssemblyReference.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.Form1.resources
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.csproj.GenerateResource.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.AssemblyInfoInputs.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.AssemblyInfo.cs
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.csproj.CoreCompileInputs.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.dll
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\refint\SushkoLab3.dll
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.pdb
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\SushkoLab3.genruntimeconfig.cache
+C:\Main\University\Комп моделювання\+\Сушко Діана\SushkoLab3\SushkoLab3\obj\Debug\net6.0-windows\ref\SushkoLab3.dll
